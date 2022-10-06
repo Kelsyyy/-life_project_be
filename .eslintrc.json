@@ -1,0 +1,16 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true,
+    "commonjs": true,
+    "es6": true,
+    "jquery": true
+  },
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+
+  "extends": ["eslint:recommended", "plugin:prettier/recommended"],
+  "rules": {}
+}
